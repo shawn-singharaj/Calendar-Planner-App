@@ -1,5 +1,6 @@
 5/17/25
 
+CALENDAR APP LOCATED IN MAIN
 For my calendar/planner app, I used Javascript/JSX/HTML like in CS290 using REACT as the front end and the REST API as the backend. I have implemented the three main pages being the login page, weekly planner page, and daily planner pages in REACT. I have yet to implement anything for the REST API. 
 
 My pages: 
